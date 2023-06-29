@@ -1,4 +1,4 @@
-**Olá, eu sou o Rai 😊**
+**Olá, eu sou o Rai, estou a procura de vaga em desenvolvimento de software 😊**
 <br>
 <br>
 *Meios para contato*
