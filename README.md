@@ -9,7 +9,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaiSMel&show_icons=true&theme=transparent)
 
-*Linguagens dos projetos postados no linkedin*
+*Linguagens dos projetos postados no github*
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaiSMel&layout=compact)
 
