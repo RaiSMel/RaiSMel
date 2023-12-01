@@ -1,11 +1,12 @@
-**Olá, eu sou o Rai, estou a procura de vaga em desenvolvimento de software 😊**
+**Hello, I'm a Developer Full-Stack,<br/>
+Trying to change career to Software Developer, Nowadays I'm in the best public College to learn Analysis and System Development. 😊**
 <br>
 <br>
-*Meios para contato*
+*Ways to contact me!*
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raisilm/)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raimello19/)
 
-*Status do GITHUB*
+GITHUB Status*
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaiSMel&show_icons=true&theme=transparent)
 
