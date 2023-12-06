@@ -10,11 +10,11 @@ Nowadays I'm in the best public College of Brazil to learn Analysis and System D
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaiSMel&show_icons=true&theme=transparent)
 
-*Linguagens dos projetos postados no github*
+*Languages that I'm used to*
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaiSMel&layout=compact)
 
-*Conhecimento nas seguintes linguagens*
+*Known Languages*
 
 <div style="display: inline_block">
 
