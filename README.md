@@ -13,7 +13,7 @@ Nowadays I'm in the best public College to learn Analysis and System Development
 
 *Languages that I'm used to*
 
-[![RaiSMel](https://github-readme-stats.vercel.app/api/top-langs/?username=RaiSMel&hide=html&layout=Highcontrast&theme=Highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![RaiSMel](https://github-readme-stats.vercel.app/api/top-langs/?username=RaiSMel&hide=html&layout=compacttheme=Highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 
 *Known Languages*
