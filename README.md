@@ -1,9 +1,3 @@
-<style>
-  .status{
-    justify-content: center;
-    display:flex;
-  }
-</style>
 **Hello, I'm trying to change my career to Software Developer,<br/>
 Nowadays I'm in the best public College to learn Analysis and System Development of Brazil. 😊**
 <br>
@@ -12,21 +6,16 @@ Nowadays I'm in the best public College to learn Analysis and System Development
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raisilm/)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raimello19/)
 
-<div class="status"> 
-  <div width="50%" >
+
 *GITHUB Status*
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaiSMel&show_icons=true&theme=transparent)
 
-</div>
-
-<div width="50%">
 *Languages that I'm used to*
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaiSMel&layout=compact)
 
-</div>
-</div>
+
 *Known Languages*
 
 <div style="display: inline_block">
