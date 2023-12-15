@@ -9,7 +9,7 @@ Nowadays I'm in the best public College to learn Analysis and System Development
 
 *GITHUB Status*
 
-[![RaiSMel](https://github-readme-stats.vercel.app/api?username=RaiSMel&theme=HighContrast)](https://github.com/anuraghazra/github-readme-stats)
+[![RaiSMel](https://github-readme-stats.vercel.app/api?username=RaiSMel&theme=Highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 *Languages that I'm used to*
 
