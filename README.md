@@ -6,15 +6,15 @@ Nowadays I'm in the best public College to learn Analysis and System Development
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raisilm/)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raimello19/)
 
-<div style="display: flex;">
-  <div width="50%">
+
+  <div width="50%" align="center">
 *GITHUB Status*
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaiSMel&show_icons=true&theme=transparent)
 
 </div>
 
-<div width="50%">
+<div width="50%" align="center">
 *Languages that I'm used to*
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaiSMel&layout=compact)
