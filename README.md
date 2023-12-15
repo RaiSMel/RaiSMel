@@ -9,11 +9,11 @@ Nowadays I'm in the best public College to learn Analysis and System Development
 
 *GITHUB Status*
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaiSMel&show_icons=true&theme=Highcontrast)
+[![RaiSMel](https://github-readme-stats.vercel.app/api?username=RaiSMel&theme=HighContrast)](https://github.com/anuraghazra/github-readme-stats)
 
 *Languages that I'm used to*
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaiSMel&layout=Highcontrast)
+[![RaiSMel](https://github-readme-stats.vercel.app/api/top-langs/?username=RaiSMel&hide=html&layout=compact&theme=Highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 
 *Known Languages*
