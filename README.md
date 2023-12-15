@@ -13,7 +13,7 @@ Nowadays I'm in the best public College to learn Analysis and System Development
 
 *Languages that I'm used to*
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaiSMel&layout=compactHighcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaiSMel&layout=Highcontrast)
 
 
 *Known Languages*
