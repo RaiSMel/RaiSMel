@@ -1,5 +1,5 @@
-**Hello, I'm trying to change career to Software Developer,<br/>
-Nowadays I'm in the best public College of Brazil to learn Analysis and System Development. 😊**
+**Hello, I'm trying to change my career to Software Developer,<br/>
+Nowadays I'm in the best public College to learn Analysis and System Development of Brazil. 😊**
 <br>
 <br>
 *Ways to contact me!*
