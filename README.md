@@ -1,4 +1,4 @@
-**Hello, I'm trying to change my career, I want become a Software Developer,<br/>
+**Hello, I'm trying to change my career to become a Software Developer,<br/>
 Nowadays I'm in one of the best public College to learn Analysis and System Development of Brazil. 😊**
 <br>
 <br>
