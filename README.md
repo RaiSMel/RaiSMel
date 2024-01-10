@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dd2222&height=120&section=header"/>
+
 **Hello, I'm trying to change my career to become a Software Developer,<br/>
 Nowadays I'm in one of the best public College to learn Analysis and System Development of Brazil. 😊**
 <br>
@@ -23,3 +25,5 @@ Nowadays I'm in one of the best public College to learn Analysis and System Deve
 <img alt="PHYTON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dd2222&height=120&section=footer"/>
