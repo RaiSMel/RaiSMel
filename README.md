@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dd2222&height=120&section=header"/>
 
 **Hello, I'm trying to change my career to become a Software Developer,<br/>
-Nowadays I'm in one of the best public College to learn Analysis and System Development of Brazil. 😊**
+Nowadays I'm in one of the best public College to learn Analysis and System Development in Brazil. 😊**
 <br>
 <br>
 *Ways to contact me!*
