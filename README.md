@@ -12,8 +12,8 @@ Nowadays I'm in one of the best public College to learn Analysis and System Deve
 
 *GITHUB Status*
 
-[![RaiSMel](https://github-readme-stats.vercel.app/api?username=RaiSMel&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![RaiSMel](https://github-readme-stats.vercel.app/api/top-langs/?username=RaiSMel&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=RaiSMel&theme=dark" alt="stats">
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaiSMel&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats" alt="stats">
 
 
 
