@@ -1,7 +1,7 @@
 <div align="center">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dd2222&height=120&section=header"/>
 
-**Hello, I'm a I.T. student and looking for a job. All the contents posted here are to show my habilities,<br/>
+**Hello, I'm a I.T. student. All the contents have been posted here to show my habilities,<br/>
 Nowadays I'm in one of the best public College to learn Analysis and System Development in Brazil. 😊**
 <br>
 <br>
